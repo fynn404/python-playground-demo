@@ -1,0 +1,21 @@
+/* 编辑器样式 */
+#editor {
+    font-size: 14px;
+    font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', monospace;
+}
+
+/* 输出区域样式 */
+#output {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+/* 错误消息样式 */
+.error {
+    color: #dc2626;
+}
+
+/* 成功消息样式 */
+.success {
+    color: #059669;
+}

@@ -1,2 +1,2 @@
-django==5.0.2
+django==4.2.20
 black==24.2.0 
